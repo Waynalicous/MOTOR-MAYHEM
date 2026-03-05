@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
-  "eventList":[],
+  "%Name":"Cop_Car",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object5",
+  "name":"Cop_Car",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

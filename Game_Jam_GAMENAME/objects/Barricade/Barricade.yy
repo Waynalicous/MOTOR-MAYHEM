@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
-  "eventList":[],
+  "%Name":"Barricade",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object4",
+  "name":"Barricade",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
