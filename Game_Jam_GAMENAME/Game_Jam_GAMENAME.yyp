@@ -33,7 +33,7 @@
     {"id":{"name":"Cop_Car","path":"objects/Cop_Car/Cop_Car.yy",},},
     {"id":{"name":"Falling_Tree","path":"objects/Falling_Tree/Falling_Tree.yy",},},
     {"id":{"name":"Mud","path":"objects/Mud/Mud.yy",},},
-    {"id":{"name":"play","path":"objects/play/play.yy",},},
+    {"id":{"name":"obj_button_plau","path":"objects/obj_button_plau/obj_button_plau.yy",},},
     {"id":{"name":"Rob_Car","path":"objects/Rob_Car/Rob_Car.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
