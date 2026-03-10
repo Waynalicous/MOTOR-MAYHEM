@@ -26,8 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"Sprite2",
+    "path":"sprites/Sprite2/Sprite2.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
