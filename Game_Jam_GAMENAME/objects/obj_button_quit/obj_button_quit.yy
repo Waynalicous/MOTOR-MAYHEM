@@ -1,15 +1,22 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
-  "eventList":[],
+  "%Name":"obj_button_quit",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object4",
-  "overriddenProperties":[],
+  "name":"obj_button_quit",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"button","path":"objects/button/button.yy",},"propertyId":{"name":"button_text","path":"objects/button/button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Quit",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"button",
+    "path":"objects/button/button.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
