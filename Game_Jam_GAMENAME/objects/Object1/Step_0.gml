@@ -5,7 +5,7 @@ var left_key = keyboard_check(vk_left);
 
 xspd = (right_key - left_key) * move_speed;
 
-if place_meeting( x + xspd, y, Object9) == true
+if place_meeting( x + xspd, y, no9) == true
 {
 	xspd = 0;
 }
