@@ -29,12 +29,9 @@
   "name":"Game_Jam_GAMENAME",
   "resources":[
     {"id":{"name":"Help_button","path":"objects/Help_button/Help_button.yy",},},
-    {"id":{"name":"no","path":"objects/no/no.yy",},},
-    {"id":{"name":"no9","path":"objects/no9/no9.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
-    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"play_button","path":"objects/play_button/play_button.yy",},},
     {"id":{"name":"Please_dont_leave","path":"rooms/Please_dont_leave/Please_dont_leave.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
