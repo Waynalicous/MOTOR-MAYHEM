@@ -3,9 +3,11 @@ var left_key = keyboard_check(vk_left);
 
 xspd = (right_key - left_key) * move_speed;
 
-if place_meeting( x + xspd, y, Object2) == true
+if place_meeting( x + xspd, y, obj_car_barrier) == true
 {
 	xspd = 0;
 }
 
 x += xspd;
+
+
